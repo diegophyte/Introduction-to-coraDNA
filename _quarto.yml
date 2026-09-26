@@ -49,8 +49,7 @@ format:
       - cosmo
       - brand
     cover-image: assets/images/cover.png
-  pdf:
-    documentclass: scrreprt
+
 
 
 

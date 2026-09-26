@@ -35,7 +35,7 @@ book:
   license: "CC-BY 4.0"
   cover-image: "assets/images/cover.png"
   page-footer: "Source material [here](https://github.com/to/repo)."
-  site-url: https://something.io
+  site-url: https://diegophyte.github.io/Introduction-to-coraDNA/
   favicon: favicon.png
   open-graph: true
   reader-mode: true

@@ -1,0 +1,32 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Coral Paleogenomics",
+    "section": "",
+    "text": "Preface\n\n\n\n\n\n\nWarning\n\n\n\nThis book is in preparation. Chapters are drafts and will change.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee (knuth84?) for additional discussion of literate programming.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "Summary"
+    ]
+  }
+]

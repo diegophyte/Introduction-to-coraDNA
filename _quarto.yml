@@ -1,0 +1,58 @@
+project:
+  type: book
+
+toc: true
+number-section: true 
+
+bibliography: references.bib
+  - assets/references/intro.bib
+
+book:
+  title: "Coral Paleogenomics"
+  author: "Diego Lera-Lozano, Anthony Bellantuono, Mónica Medina"
+    - name: Diego Lera-Lozano
+      orcid: 0000-0000-0000-0000
+      affiliation: University of California, Los Angeles
+    - name: Anthony Bellantuono
+      orcid: 0000-0000-0000-0000
+      affiliation: University of California, Los Angeles
+    - name: Mónica Medina
+      orcid: 0000-0000-0000-0000
+      affiliation: University of California, Los Angeles
+  date: last-modified 
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+    - part: section-tempname.qmd
+      chapters:
+        - a.qmd
+        - b.qmd
+        - c.qmd
+    - part: section-tempname2.qmd
+      chapters:
+        - a2.qmd
+        - b2.qmd
+        - c2.qmd
+        
+    license: "CC-BY 4.0"
+    cover-image: "assets/images/cover.png"
+    page-footer: "© 2025 SPAAM Community & Authors with ❤️. Available under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). Source material [here](https://github.com/SPAAM-community/intro-to-ancient-metagenomics-book)."
+#    site-url: https://something.io
+    favicon: favicon.png
+    open-graph: true
+    reader-mode: true
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    cover-image: assets/images/cover.png
+  pdf:
+    documentclass: scrreprt
+
+
+
